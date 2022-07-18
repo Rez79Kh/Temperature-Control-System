@@ -1,2 +1,1 @@
-# Temperature-Control-System
-## Microprocessors Course Project
+# Temperature-Control-System (Microprocessors Course Project)

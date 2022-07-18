@@ -1,5 +1,5 @@
 # Temperature Control System (Microprocessors Course Project)
-This Project is to design temperature control system using two ATMega32 microcontrollers.
+This Project is to design temperature control system using two ATMega32 microcontrollers with help of platformio and proteus.
 
 - Uses SPI communication protocol
 - Uses LM35 Temperature Sensor for measurement of temperature
